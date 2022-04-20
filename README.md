@@ -1,2 +1,2 @@
 # mastering-go
-jsut for studing mastering-go
+just for studing mastering-go
